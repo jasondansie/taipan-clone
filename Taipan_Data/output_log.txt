@@ -1,0 +1,92 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     2157 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jason\OneDrive\Documents\Taipan\Taipan_Clone\Taipan_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.792579 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.101797 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.286144 ms (FindLiveObjects: 0.024115 ms CreateObjectMapping: 0.012985 ms MarkObjects: 0.230028 ms  DeleteObjects: 0.012985 ms)
+
+log me
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Choice is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.678840 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 762.
+Total: 0.827362 ms (FindLiveObjects: 0.063536 ms CreateObjectMapping: 0.015304 ms MarkObjects: 0.734608 ms  DeleteObjects: 0.012985 ms)
+
+start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Choice is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+365
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+moneylender
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+moneylender
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MoneyLenderPayBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MoneyLenderBorrow
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+trading
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+trading
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2ae4 -> priority: 1 
